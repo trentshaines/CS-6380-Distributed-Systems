@@ -1,10 +1,10 @@
 CS 6380.001
 Project 1
 
-In this project, we build a message-passing synchronous distributed system according to the constraints in the configuration file,
-implement Peleg’s leader election algorithm to select a distinguished node, 
-and build a breadth first spanning (BFS) tree rooted at the distinguished node. 
-The BFS tree allows for quick message passing across the distributed system.
+This program creates a message-passing synchronous distributed system according to the constraints in the configuration file,
+implements Peleg’s leader election algorithm to select a distinguished node, 
+and finally builds a breadth first spanning (BFS) tree rooted at the distinguished node. 
+The completed BFS tree allows for quick message passing across the distributed system.
 
 To compile and run the program, follow these steps:
   1. Create a Project directory in the utdallas.edu filesystem which will have a /src and /bin subdirectory
