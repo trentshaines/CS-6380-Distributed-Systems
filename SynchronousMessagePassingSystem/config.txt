@@ -1,0 +1,11 @@
+# number of nodes in the system
+2
+
+# nodeUID hostName listeningPort
+123 dc40 5001
+5 dc41 5002
+
+
+# space delimited list of neighbors for each node
+5
+123
