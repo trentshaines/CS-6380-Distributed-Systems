@@ -1,6 +1,8 @@
 CS 6380.001
 Project 1
 
+In this project, we build a message-passing synchronous distributed system in which nodes are arranged in a certain topology (given in a configuration file), implement Peleg’s leader election algorithm to select a distinguished node, and build a breadth first spanning (BFS) tree rooted at the distinguished node. The BFS tree allows for quick message passing across the distributed system.
+
 To compile and run the program, follow these steps:
   1. Create a Project directory in the utdallas.edu filesystem which will have a /src and /bin subdirectory
   2. Upload the Process.java file under the src subdirectory
