@@ -1,6 +1,5 @@
 CS 6380.001
 Project 1
-Team Members: Trent Haines, Marin Budic
 
 To compile and run the program, follow these steps:
   1. Create a Project directory in the utdallas.edu filesystem which will have a /src and /bin subdirectory
